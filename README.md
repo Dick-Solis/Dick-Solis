@@ -1,11 +1,13 @@
-### About me 👋
+### About me 👋  
     I`m Dick a Full-Stack Web Developer.
     Also I`m A Software Engineer.
+    
+<img src="https://www.codewars.com/users/DKDeveloper01/badges/large" />
 
 ### Dev Skills 💻
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rails,ruby,html,css,react,js,figma,postgres" />
+    <img src="https://skillicons.dev/icons?i=rails,ruby,html,css,react,js,figma,postgres,git" />
   </a>
 </p>
 
