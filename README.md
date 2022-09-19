@@ -1,16 +1,23 @@
-### Hi there 👋
+### About me 👋
+    I`m Dick a Full-Stack Web Developer.
+    Also I`m A Software Engineer.
 
-<!--
-**Dick-Solis/Dick-Solis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dick-Solis&layout=compact)](https://github.com/Dick-Solis/github-readme-stats)
 
-Here are some ideas to get you started:
+### Dev Skills 💻
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rails,ruby,html,css,react,js,figma,postgres" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Soft Skills 👥
+<ul >
+  <li>Adaptability</li>
+  <li>Problem Solving</li>
+  <li>Teamwork</li>
+  <li>Detail-oriented</li>
+  <li>Time Management</li>
+</ul>
+
+
