@@ -20,7 +20,7 @@
   <li>Time Management</li>
 </ul>
 
-### Contact ⌚
+### Contact Me ⌚
 <p style="color: white;">
   <a href="https://linkedin.com/in/dicksolis" style="display:flex">
     <img src="https://skillicons.dev/icons?i=linkedin" />
