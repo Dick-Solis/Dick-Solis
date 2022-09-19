@@ -2,7 +2,7 @@
     I`m Dick a Full-Stack Web Developer.
     Also I`m A Software Engineer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dick-Solis&layout=compact)](https://github.com/Dick-Solis/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dick-Solis&show_icons=true&theme=radical)
 
 ### Dev Skills 💻
 <p >
