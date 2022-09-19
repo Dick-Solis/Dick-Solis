@@ -2,8 +2,6 @@
     I`m Dick a Full-Stack Web Developer.
     Also I`m A Software Engineer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dick-Solis&show_icons=true&theme=radical)
-
 ### Dev Skills 💻
 <p >
   <a href="https://skillicons.dev">
