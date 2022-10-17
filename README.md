@@ -20,6 +20,10 @@
   <li>Time Management</li>
 </ul>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dick-Solis&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dick-Solis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact Me ⌚
 <p style="color: white;">
   <a href="https://linkedin.com/in/dicksolis" style="display:flex">
